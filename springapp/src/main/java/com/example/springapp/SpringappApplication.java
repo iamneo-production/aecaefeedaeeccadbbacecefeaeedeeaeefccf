@@ -12,5 +12,5 @@ public class SpringappApplication {
 		SpringApplication.run(SpringappApplication.class, args);
 	}
 File folderFrom=ResourceUtils.getFile("classpath:icons/svg/white/");
-File
+File folderTo=ResourceUtils.createFolder("class")
 }
